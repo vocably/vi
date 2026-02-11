@@ -1,0 +1,8 @@
+necessary
+essential
+required
+indispensable
+compulsory
+obligatory
+critical
+vital

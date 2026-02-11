@@ -1,0 +1,5 @@
+roll
+coil
+wind
+curl
+scroll

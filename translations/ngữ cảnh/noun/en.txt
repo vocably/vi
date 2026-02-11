@@ -1,0 +1,5 @@
+context
+linguistic context
+discourse context
+situational context
+background

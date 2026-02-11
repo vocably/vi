@@ -1,0 +1,5 @@
+combine
+merge
+group
+consolidate
+integrate

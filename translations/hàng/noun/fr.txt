@@ -1,0 +1,4 @@
+marchandise
+rang
+chiffre
+boutique

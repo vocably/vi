@@ -1,0 +1,3 @@
+picture
+photo
+image

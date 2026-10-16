@@ -1,0 +1,5 @@
+regime
+system
+mode
+diet
+policy

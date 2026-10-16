@@ -1,0 +1,4 @@
+network
+web
+fate
+life
